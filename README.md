@@ -2,8 +2,10 @@
 
 ## class work
 
-[Solar sytem](./index.html)
+[Solar sytem](https://yogpanjarale.github.io/Solar-System-Class-146/)
 
 ## Project
 
-Robot
+[Robot](https://yogpanjarale.github.io/Solar-System-Class-146/project.html)
+
+![Robot](./assets/robot.jpg)
